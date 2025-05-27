@@ -1,0 +1,28 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mlx~
+*.autosave
+
+# Simulink autosave and backup files
+slprj/
+simulink_autosave/
+*.slxc
+*.slx.autosave
+
+# Cache and build folders
+work/
+codegen/
+.matlab/
+
+# User-specific settings
+*.mlappinstall
+*.prj
+*.mldatx
+*.mlproj
+
+# Compiled binaries or objects
+*.mex*
+
+# Data files
+*.mat
